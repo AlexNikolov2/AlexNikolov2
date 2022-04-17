@@ -11,15 +11,17 @@
 
 My stack:
 
-* - JavaScript
-* - Express.js
-* - Node.js
-* - MongoDB
-* - HTML/CSS
+![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![alt text](https://img.icons8.com/color/48/000000/express.png)
+![alt text](https://img.icons8.com/fluency/48/000000/node-js.png)
+![alt text](https://img.icons8.com/color/48/000000/mongodb.png)
+![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![alt text](https://img.icons8.com/color/48/000000/css3.png)
+![alt text](https://img.icons8.com/color/48/000000/firebase.png)
+![alt text](https://img.icons8.com/color/48/000000/typescript.png)
+![alt text](https://img.icons8.com/color/48/000000/angularjs.png)
 
-Learning:
-
-* - Angular
+___
 
 [![Alex Nikolov's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages I Code in](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNikolov2)](https://github.com/anuraghazra/github-readme-stats)
