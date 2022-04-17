@@ -9,7 +9,9 @@
 
 ## 2022 Goal? Get a job as a JS Developer!
 
-My stack:
+<center>
+
+**My stack:**
 
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![alt text](https://img.icons8.com/color/48/000000/express.png)
@@ -20,6 +22,8 @@ My stack:
 ![alt text](https://img.icons8.com/color/48/000000/firebase.png)
 ![alt text](https://img.icons8.com/color/48/000000/typescript.png)
 ![alt text](https://img.icons8.com/color/48/000000/angularjs.png)
+  
+  </center>
 
 ___
 
