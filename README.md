@@ -21,6 +21,10 @@
 ![alt text](https://img.icons8.com/color/60/000000/typescript.png)
 ![alt text](https://img.icons8.com/color/60/000000/angularjs.png)
 
+**Learning**
+
+![alt text](https://img.icons8.com/color/60/000000/react.png)
+
 ___
 
 [![Alex Nikolov's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2)](https://github.com/anuraghazra/github-readme-stats)
