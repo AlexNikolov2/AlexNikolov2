@@ -3,9 +3,9 @@
 ## An ambitious young man
 
 * 17 Years Young👦 
-* - Going at school in SU "Nikola Vaptsarov" 📚
-* - Studying Web Development at Software University 💻
-* - My hobbies are learning History, playing Piano, Coding and Football🗿🎹🖥⚽
+* Going at school in SU "Nikola Vaptsarov" 📚
+* Studying Web Development at Software University 💻
+* My hobbies are learning History, playing Piano, Coding and Football🗿🎹🖥⚽
 
 ## 2022 Goal? Get a job as a JS Developer!
 
