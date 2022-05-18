@@ -24,8 +24,3 @@
 **Learning**
 
 ![alt text](https://img.icons8.com/officel/60/000000/react.png)
-
-___
-
-[![Aleks Nikolov's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages I Code in](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNikolov2)](https://github.com/anuraghazra/github-readme-stats)
