@@ -24,3 +24,5 @@
 **Learning**
 
 ![alt text](https://img.icons8.com/officel/60/000000/react.png)
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALexNikolov2&show_icons=true&theme=radical)
