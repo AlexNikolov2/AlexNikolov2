@@ -27,7 +27,8 @@
 **Learning**
 
 ![alt text](https://img.icons8.com/color/60/000000/figma--v1.png)
-![alt text](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![alt text](https://img.icons8.com/color/60/000000/tailwindcss.png)
+![alt text](https://img.icons8.com/color/60/000000/mysql-logo.png)
 
 ## My stats:
 
