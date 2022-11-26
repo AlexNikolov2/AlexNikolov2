@@ -34,5 +34,5 @@
 
 ## My stats:
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlexNikolov2&theme=chartreuse-dark)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AlexNikolov2)](https://git.io/awesome-stats-card&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNikolov2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
