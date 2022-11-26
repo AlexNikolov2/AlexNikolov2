@@ -13,7 +13,7 @@
 **My stack:**
 
 ![alt text](https://img.icons8.com/color/60/000000/javascript--v1.png)
-![alt text](https://img.icons8.com/color/60/000000/express.png)
+![alt text](https://img.icons8.com/nolan/60/express-js.png)
 ![alt text](https://img.icons8.com/fluency/60/000000/node-js.png)
 ![alt text](https://img.icons8.com/color/60/000000/mongodb.png)
 ![alt text](https://img.icons8.com/color/60/000000/html-5--v1.png)
