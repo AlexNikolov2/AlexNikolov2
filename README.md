@@ -4,7 +4,7 @@
 
 * 18 Years Young👦 
 * Going at school in SU "Nikola Vaptsarov" 📚
-* Studying Web Development at Software University 💻
+* Graduated as a JS Web Developer at Software University 💻
 * My hobbies are learning History, playing Piano, Coding and Football🗿🎹🖥⚽
 * 8th place in Front-End Development category at National IT Competition at Devin🎖
 
