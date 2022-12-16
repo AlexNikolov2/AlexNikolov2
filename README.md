@@ -8,7 +8,7 @@
 * My hobbies are learning History, playing Piano, Coding and Football🗿🎹🖥⚽
 * 8th place in Front-End Development category at National IT Competition at Devin🎖
 
-## 2022 Goal? Get a job as a JS Developer!
+## My Goal? Get a job as a JS Developer!
 
 **My stack:**
 
