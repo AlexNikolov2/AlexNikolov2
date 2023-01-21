@@ -3,7 +3,7 @@
 ## An ambitious young man
 
 * 18 Years Young👦 
-* Going at school in SU "Nikola Vaptsarov" 📚
+* Final year at SU "Nikola Vaptsarov" 📚
 * Graduated as a JS Web Developer at Software University 💻
 * My hobbies are learning History, playing Piano, Coding🗿🎹🖥
 * I watch Football and Cycling 🚴‍♀️⚽
