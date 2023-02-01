@@ -8,6 +8,7 @@
 * My hobbies are learning History, playing Piano, Coding🗿🎹🖥
 * I watch Football and Cycling 🚴‍♀️⚽
 * 8th place in Front-End Development category at National IT Competition at Devin🎖
+* ABLE Mentor S18 Participant 🐔
 
 ## My Goal? Get a job as a JS Developer!
 
