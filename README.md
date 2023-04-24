@@ -8,9 +8,9 @@
 * My hobbies are learning History, playing Piano, Coding🗿🎹🖥
 * I watch Football and Cycling 🚴‍♀️⚽
 * ABLE Mentor S18 Participant 🐔
-* 8th place at XI National IT Competition in Devin (2022)
-* Participated at HackAUBG 5.0
-* Participated at XV National IT Competition in Blagoevgrad (2023)
+* 8th place at XI National IT Competition in Devin (2022) 🎖
+* Participated at HackAUBG 5.0 ✨
+* Participated at XV National IT Competition in Blagoevgrad (2023) ✨
 
 ## My Goal? Get a job as a JS Developer!
 
