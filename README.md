@@ -33,7 +33,6 @@
 
 **Learning**
 
-![alt text](https://img.icons8.com/color/60/000000/figma--v1.png)
 ![alt text](https://img.icons8.com/color/60/000000/tailwindcss.png)
 ![alt text](https://img.icons8.com/officel/60/000000/react.png)
 ![alt text](https://img.icons8.com/color/60/000000/angularjs.png)
