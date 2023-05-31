@@ -43,5 +43,5 @@
 
 ## My stats:
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&show_icons=true&count_private=true)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNikolov2)](https://github.com/anuraghazra/github-readme-stats)
