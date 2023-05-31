@@ -38,6 +38,9 @@
 ![alt text](https://img.icons8.com/color/60/000000/angularjs.png)
 ![alt text](https://img.icons8.com/color/60/000000/javascript--v1.png)
 ![alt text](https://img.icons8.com/color/60/null/git.png)
+![alt text](https://img.icons8.com/color/60/null/git.png)
+![image](https://github.com/AlexNikolov2/AlexNikolov2/assets/72394391/4359109d-26f4-4472-9561-60b331e708cd)
+
 
 ## My stats:
 
