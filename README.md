@@ -13,7 +13,7 @@
 * Participated at XV National IT Competition in Blagoevgrad (2023) ✨
 * 3rd place at XII National IT Competition in Devin (2023) 🥉
 
-## My Goal? Get a job as a JS Developer!
+## Working as a Front-End Developer ✨
 
 **My stack:**
 
