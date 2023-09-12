@@ -14,7 +14,7 @@
 * Participated in XV National IT Competition in Blagoevgrad (2023) ✨
 * 3rd place at XII National IT Competition in Devin (2023) 🥉
 
-## Working as a Front-End Developer ✨
+## Wants to be a Front-End Developer ✨
 
 **My stack:**
 
