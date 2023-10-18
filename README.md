@@ -42,6 +42,7 @@
 ![alt text](https://img.icons8.com/color/60/sass.png)
 ![alt text](https://img.icons8.com/color/60/000000/tailwindcss.png)
 ![alt text](https://img.icons8.com/color/60/null/git.png)
+![alt text](https://img.icons8.com/color/60/python.png)
 
 
 ## My stats:
