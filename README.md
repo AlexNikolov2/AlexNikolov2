@@ -20,6 +20,7 @@
 **WHat I am best at:**
 
 ![alt text](https://img.icons8.com/color/60/000000/javascript--v1.png)
+![alt text](https://img.icons8.com/color/60/000000/typescript.png)
 ![alt text](https://img.icons8.com/color/60/000000/html-5--v1.png)
 ![alt text](https://img.icons8.com/color/60/000000/css3.png)
 ![alt text](https://img.icons8.com/color/60/000000/angularjs.png)
@@ -27,7 +28,7 @@
 
 **I know it**
 
-![alt text](https://img.icons8.com/color/60/000000/typescript.png)
+
 ![alt text](https://img.icons8.com/color/60/000000/tailwindcss.png)
 ![alt text](https://img.icons8.com/color/60/sass.png)
 ![alt text](https://img.icons8.com/officel/60/000000/react.png)
@@ -38,6 +39,7 @@
 **I am learning it currently**
 
 ![alt text](https://img.icons8.com/color/60/000000/javascript--v1.png)
+![alt text](https://img.icons8.com/color/60/000000/typescript.png)
 ![alt text](https://img.icons8.com/officel/60/000000/react.png)
 ![alt text](https://img.icons8.com/color/60/000000/angularjs.png)
 ![alt text](https://img.icons8.com/color/60/null/git.png)
