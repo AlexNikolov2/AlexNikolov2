@@ -25,13 +25,14 @@
 ![alt text](https://img.icons8.com/color/60/000000/css3.png)
 ![alt text](https://img.icons8.com/color/60/000000/angularjs.png)
 ![alt text](https://img.icons8.com/color/60/000000/visual-studio-code-2019.png)
+![alt text](https://img.icons8.com/color/60/sass.png)
+![alt text](https://img.icons8.com/officel/60/000000/react.png)
+
 
 **I know it**
 
 
 ![alt text](https://img.icons8.com/color/60/000000/tailwindcss.png)
-![alt text](https://img.icons8.com/color/60/sass.png)
-![alt text](https://img.icons8.com/officel/60/000000/react.png)
 ![alt text](https://img.icons8.com/fluency/60/000000/node-js.png)
 ![alt text](https://img.icons8.com/color/60/000000/firebase.png)
 ![alt text](https://img.icons8.com/color/60/null/git.png)
