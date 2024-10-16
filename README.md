@@ -43,7 +43,7 @@
 ![alt text](https://img.icons8.com/color/60/000000/typescript.png)
 ![alt text](https://img.icons8.com/officel/60/000000/react.png)
 ![alt text](https://img.icons8.com/color/60/null/git.png)
-![alt text](https://img.icons8.com/color/60/c-programming.png)
+![alt text](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
 
 
 **I have used to work with it**
@@ -52,6 +52,7 @@
 ![alt text](https://img.icons8.com/color/60/000000/mongodb.png)
 ![alt text](https://img.icons8.com/color/60/000000/mysql-logo.png)
 ![alt text](https://img.icons8.com/color/60/python.png)
+![alt text](https://img.icons8.com/color/60/c-programming.png)
 
 
 ## My stats:
