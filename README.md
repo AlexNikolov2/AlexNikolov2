@@ -15,7 +15,7 @@
 * 3rd place at XII National IT Competition in Devin (2023) 🥉
 * Softuni Fest 2023 winner with team Килия 307 🥇
 
-## Wants to be a Front-End Developer ✨
+## Front-End Developer ✨
 
 **WHat I am best at:**
 
