@@ -2,7 +2,7 @@
 
 ## An ambitious young man
 
-* 19 Years Young👦
+* 20 Years Young👦
 * Studying at Technical University of Sofia 📚
 * Graduated with Humanitarian Studies at SU "Nikola Vaptsarov" 🎓
 * Graduated as a JS Web Developer at Software University 💻
