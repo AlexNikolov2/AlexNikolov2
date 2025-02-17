@@ -53,8 +53,6 @@
 **I have used to work with it**
 
 ![alt text](https://img.icons8.com/color/60/java-coffee-cup-logo--v1.png)
-![alt text](https://img.icons8.com/nolan/60/express-js.png)
-![alt text](https://img.icons8.com/color/60/000000/mongodb.png)
 ![alt text](https://img.icons8.com/color/60/python.png)
 ![alt text](https://img.icons8.com/color/60/c-programming.png)
 
