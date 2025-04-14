@@ -59,6 +59,7 @@
 ![alt text](https://img.icons8.com/color/60/java-coffee-cup-logo--v1.png)
 ![alt text](https://img.icons8.com/color/60/python.png)
 ![alt text](https://img.icons8.com/color/60/c-programming.png)
+![alt text](https://img.icons8.com/color/60/arduino.png)
 
 
 ## My stats:
