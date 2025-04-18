@@ -60,6 +60,8 @@
 ![alt text](https://img.icons8.com/color/60/python.png)
 ![alt text](https://img.icons8.com/color/60/c-programming.png)
 ![alt text](https://img.icons8.com/color/60/arduino.png)
+![alt text](https://img.icons8.com/color/60/000000/nextjs.png)
+
 
 
 ## My stats:
