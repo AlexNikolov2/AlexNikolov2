@@ -15,6 +15,7 @@
 * Participated in XV National IT Competition in Blagoevgrad (2023) ✨
 * 3rd place at XII National IT Competition in Devin (2023) 🥉
 * Softuni Fest 2023 winner with team Килия 307 🥇
+* Participated at ABLE Weekend Activator Burgas '25 🚀
 
 ## Currently working as a React Developer ✨
 
