@@ -51,6 +51,8 @@
 ![alt text](https://img.icons8.com/officel/60/000000/react.png)
 ![alt text](https://img.icons8.com/nolan/60/express-js.png)
 ![alt text](https://img.icons8.com/color/60/000000/mongodb.png)
+![alt text](https://img.icons8.com/color/60/000000/c-plus-plus-logo.png)
+
 
 
 **I have used to work with it**
