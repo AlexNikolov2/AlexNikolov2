@@ -69,7 +69,10 @@
 
 
 
-## My stats:
+## My stats for past 5 years:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexNikolov2&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALexNikolov2&layout=compact&countprivate=true)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2021)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2022)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2023)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2024)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2025)
