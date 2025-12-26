@@ -9,8 +9,8 @@
 * ABLE Mentor S18 Participant 🐔
 * Participated at ABLE Weekend Activator Burgas '25 🚀
 * My hobbies are learning History, playing Piano, Coding🗿🎹🖥
-* I watch Football and Cycling 🚴‍♀️⚽
-* Volunteering at Az Moga - Tuk I Sega since 2023🌪️
+* Football and Cycling enthisuast 🚴‍♀️⚽
+* Volunteering at Az Moga - Tuk I Sega since 2023 🌪️
 
 ## Palmares 
 
