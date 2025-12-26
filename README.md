@@ -6,16 +6,20 @@
 * Studying at the Technical University of Sofia (3/4 years) 📚
 * Graduated with Humanitarian Studies at SU "Nikola Vaptsarov" 🎓
 * Graduated as a JS Web Developer at Software University 💻
+* ABLE Mentor S18 Participant 🐔
+* Participated at ABLE Weekend Activator Burgas '25 🚀
 * My hobbies are learning History, playing Piano, Coding🗿🎹🖥
 * I watch Football and Cycling 🚴‍♀️⚽
-* ABLE Mentor S18 Participant 🐔
-* 8th place at XI National IT Competition in Devin (2022) 🎖
-* Participated in HackAUBG 5.0 (2023)✨
+* Volunteering at Az Moga - Tuk I Sega since 2023🌪️
+
+## Palmares 
+
+* Softuni Fest 2023 **winner** with team Килия 307 🥇
+* **3rd place** at XII National IT Competition in Devin (2023) 🥉
+* **8th place** at XI National IT Competition in Devin (2022) 🎖
 * Participated in HackAUBG 7.0 (2025) ✨
+* Participated in HackAUBG 5.0 (2023) ✨
 * Participated in XV National IT Competition in Blagoevgrad (2023) ✨
-* 3rd place at XII National IT Competition in Devin (2023) 🥉
-* Softuni Fest 2023 winner with team Килия 307 🥇
-* Participated at ABLE Weekend Activator Burgas '25 🚀
 
 ## Currently working as a React Developer ✨
 
