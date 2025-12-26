@@ -66,13 +66,3 @@
 ![alt text](https://img.icons8.com/color/60/c-programming.png)
 ![alt text](https://img.icons8.com/color/60/arduino.png)
 ![alt text](https://img.icons8.com/color/60/000000/nextjs.png)
-
-
-
-## My stats for past 5 years:
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2021)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2022)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2023)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2024)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNikolov2&commits_year=2025)
