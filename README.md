@@ -30,7 +30,6 @@
 ![alt text](https://img.icons8.com/color/60/000000/typescript.png)
 ![alt text](https://img.icons8.com/color/60/000000/html-5--v1.png)
 ![alt text](https://img.icons8.com/color/60/000000/css3.png)
-![alt text](https://img.icons8.com/color/60/000000/angularjs.png)
 ![alt text](https://img.icons8.com/color/60/000000/visual-studio-code-2019.png)
 ![alt text](https://img.icons8.com/color/60/sass.png)
 
@@ -45,6 +44,7 @@
 ![alt text](https://img.icons8.com/color/60/000000/mysql-logo.png)
 ![alt text](https://img.icons8.com/color/60/000000/mongodb.png)
 ![alt text](https://img.icons8.com/nolan/60/express-js.png)
+![alt text](https://img.icons8.com/color/60/000000/angularjs.png)
 
 
 
@@ -55,7 +55,7 @@
 ![alt text](https://img.icons8.com/officel/60/000000/react.png)
 ![alt text](https://img.icons8.com/nolan/60/express-js.png)
 ![alt text](https://img.icons8.com/color/60/000000/mongodb.png)
-![alt text](https://img.icons8.com/color/60/000000/c-plus-plus-logo.png)
+![alt text](https://img.icons8.com/color/60/arduino.png)
 
 
 
@@ -64,5 +64,5 @@
 ![alt text](https://img.icons8.com/color/60/java-coffee-cup-logo--v1.png)
 ![alt text](https://img.icons8.com/color/60/python.png)
 ![alt text](https://img.icons8.com/color/60/c-programming.png)
-![alt text](https://img.icons8.com/color/60/arduino.png)
 ![alt text](https://img.icons8.com/color/60/000000/nextjs.png)
+![alt text](https://img.icons8.com/color/60/000000/c-plus-plus-logo.png)
